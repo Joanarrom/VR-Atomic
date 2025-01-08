@@ -1,0 +1,2 @@
+C:\Users\EVRV\Desktop\VR_Atomic\VR Atomic  Starter Arrom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\EVRV\Desktop\VR_Atomic\VR Atomic  Starter Arrom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
